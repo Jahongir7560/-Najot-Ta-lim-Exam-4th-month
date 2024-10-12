@@ -1,5 +1,5 @@
 # 4th month exam in "Najot Ta'lim"
- The 4th month exam was conducted in competitive style on www.kaggle.com. The maximum number of team members should be 2 people. As always, I and my groupmate Jahangir became a team
+ The 4th month exam was conducted in competitive style on www.kaggle.com. The maximum number of team members should be 2 people. As always, I and my groupmate Muhammad became a team
 
 #  Bank Customer Churn Prediction
 ## What is the project about?
